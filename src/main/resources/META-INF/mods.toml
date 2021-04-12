@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="GNU GPLv3"
+[[mods]]
+modId="villagertrades"
+version="${file.jarVersion}"
+displayName="Villager Trades"
+#displayURL="http://example.com/"
+authors="IchHabeHunger54"
+description='''
+Allows you to edit villager and wandering trader trades through a single config file.
+'''
